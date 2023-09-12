@@ -1,7 +1,7 @@
 title: 'liam.exposed'
 description: "Uncovering the darkest secrets of a troubled man."
-baseurl: "/jekyll-theme-console-demo-dark"
-url: "https://liamvereecken.github.io"
+baseurl: "/blog"
+url: "https://liam.exposed"
 
 header_pages:
   - index.md
