@@ -1,7 +1,7 @@
-title: 'Liam EXPOSED'
+title: 'liam.exposed'
 description: "Uncovering the darkest secrets of a troubled man."
 baseurl: "/jekyll-theme-console-demo-dark"
-url: "https://liam.exposed"
+url: "https://liamvereecken.github.io"
 
 header_pages:
   - index.md
